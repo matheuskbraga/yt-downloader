@@ -1,11 +1,10 @@
-```markdown
 # YouTube Downloader Avançado (aTube Python Clone)
 
 Um aplicativo de interface gráfica (GUI) moderno desenvolvido em Python para baixar vídeos e áudios do YouTube. O projeto utiliza uma arquitetura limpa (Clean Architecture), processamento em *threads* secundárias para evitar travamentos e organização automática de diretórios.
 
 ---
 
-## ✨ Principais Funcionalidades
+## Principais Funcionalidades
 
 * **Múltiplas Qualidades e Formatos:** Escolha entre baixar apenas áudio (MP3) ou vídeos em diversas resoluções (com ou sem som embutido).
 * **Acompanhamento em Tempo Real:** Barra de progresso visual mostrando a porcentagem exata do download.
@@ -35,7 +34,6 @@ meu_projeto/
 ├── requirements.txt        # Lista de bibliotecas externas necessárias
 └── README.md               # Documentação do projeto
 
-```
 
 ---
 
