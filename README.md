@@ -54,24 +54,24 @@ python --version
 Para evitar conflitos com outras bibliotecas no seu sistema, crie um ambiente virtual na raiz do projeto:
 
 
-# Cria o ambiente virtual chamado "venv"
+Cria o ambiente virtual chamado "venv"
 ```bash
 python -m venv venv
 ```
 
-# Ativa o ambiente virtual (Windows)
+Ativa o ambiente virtual (Windows)
 ```bash
 venv\Scripts\activate
 ```
 
-# Ativa o ambiente virtual (Linux / macOS)
+Ativa o ambiente virtual (Linux / macOS)
 ```bash
 source venv/bin/activate
 ```
 
 ### 3. Instalando as Dependências
 
-# Com o ambiente ativado (indicado por `(venv)` no terminal), crie um arquivo `requirements.txt` com o conteúdo `customtkinter` e `pytubefix` (ou gere-o automaticamente) e instale:
+Com o ambiente ativado (indicado por `(venv)` no terminal), crie um arquivo `requirements.txt` com o conteúdo `customtkinter` e `pytubefix` (ou gere-o automaticamente) e instale:
 
 ```bash
 pip install -r requirements.txt
