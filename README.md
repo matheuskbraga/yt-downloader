@@ -33,7 +33,7 @@ meu_projeto/
 ├── downloader_service.py   # Lógica de negócio, download, filtros do YT e manipulação do SO
 ├── requirements.txt        # Lista de bibliotecas externas necessárias
 └── README.md               # Documentação do projeto
-
+```
 
 ---
 
@@ -48,7 +48,6 @@ Certifique-se de ter o **Python** instalado. Para verificar, abra o terminal e d
 ```bash
 python --version
 
-```
 
 ### 2. Preparando o Ambiente Virtual (Recomendado)
 
