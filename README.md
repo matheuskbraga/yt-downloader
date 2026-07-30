@@ -66,6 +66,7 @@ source venv/bin/activate
 ### 3. Instalando as Dependências
 
 Com o ambiente ativado (indicado por `(venv)` no terminal), crie um arquivo `requirements.txt` com o conteúdo `customtkinter` e `pytubefix` (ou gere-o automaticamente) e instale:
+```
 
 ```bash
 pip install -r requirements.txt
