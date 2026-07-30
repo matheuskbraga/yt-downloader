@@ -47,7 +47,7 @@ Certifique-se de ter o **Python** instalado. Para verificar, abra o terminal e d
 
 ```bash
 python --version
-
+```
 
 ### 2. Preparando o Ambiente Virtual (Recomendado)
 
@@ -62,8 +62,6 @@ venv\Scripts\activate
 
 # Ativa o ambiente virtual (Linux / macOS)
 source venv/bin/activate
-
-```
 
 ### 3. Instalando as Dependências
 
@@ -100,7 +98,3 @@ python main.py
 
 3. **Inicie o Download:** Clique em **Baixar Agora**. Você poderá acompanhar o andamento pela barra de progresso em tempo real.
 4. **Acesse os Arquivos:** Assim que concluir, clique em **Abrir Pasta de Destino**. O sistema operacional abrirá automaticamente a sua pasta nativa de Vídeos e direcionará para `YouTubeDownloader/Audios` ou `YouTubeDownloader/Videos`, dependendo do que foi baixado.
-
-```
-
-```
