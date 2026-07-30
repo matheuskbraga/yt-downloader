@@ -18,7 +18,7 @@ Um aplicativo de interface gráfica (GUI) moderno desenvolvido em Python para ba
 
 * **Python 3.x:** Linguagem base.
 * **CustomTkinter:** Biblioteca para a interface gráfica moderna (Dark Mode nativo).
-* **Pytubefix:** Biblioteca robusta para comunicação com a API do YouTube e extração de mídia.
+* **Pytubefix:** Biblioteca para comunicação com a API do YouTube e extração de mídia.
 
 ---
 
